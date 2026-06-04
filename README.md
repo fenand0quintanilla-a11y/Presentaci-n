@@ -28,5 +28,5 @@ Actualmente estoy aprendiendo sobre Git y GitHub; estoy muy intersado en este nu
 
 
 ## Meta técnica
-Mi meta es crear sitios web funcionales, organizados y adaptables a diferentes dispositivos.
+Mi meta es crear sitios web funcionales, organizados y adaptables a diferentes dispositivos.                                                
 Participar con un proyecto sobresaliente en la feria CIMAT
